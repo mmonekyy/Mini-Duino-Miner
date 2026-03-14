@@ -1,7 +1,4 @@
 # Duino-Coin Solar Miner Project
-
-![Miner Image](tu_bedzie_img_minera)
-
 ## Project Description
 
 The project consists of:
